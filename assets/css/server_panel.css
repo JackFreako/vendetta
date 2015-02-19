@@ -1,0 +1,16 @@
+            h1{
+                font-family:Helvetica, Arial, sans-serif;
+                font-size: 24px;
+                color: #777;
+            }
+
+
+            div.clear{
+                clear: both;
+            }
+            
+
+            textarea{
+                float: left;
+                resize: none;
+            }
